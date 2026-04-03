@@ -83,4 +83,3 @@ C:\Users\JK\Documents\Donna\Portfolio\obj\Debug\net10.0\Portfolio.pdb
 C:\Users\JK\Documents\Donna\Portfolio\obj\Debug\net10.0\Portfolio.genruntimeconfig.cache
 C:\Users\JK\Documents\Donna\Portfolio\obj\Debug\net10.0\ref\Portfolio.dll
 C:\Users\JK\Documents\Donna\Portfolio\obj\Debug\net10.0\compressed\62k8rbmgzy-{0}-t2lws3b6tn-t2lws3b6tn.gz
-C:\Users\JK\Documents\Donna\Portfolio\obj\Debug\net10.0\Portfolio.sourcelink.json
