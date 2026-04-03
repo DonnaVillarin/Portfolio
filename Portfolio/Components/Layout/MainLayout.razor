@@ -1,0 +1,27 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+
+    <main>
+        <div class="top-row px-4">
+            <span class="island-badge">🏝️🏝️</span>
+        </div>
+
+        <article class="content px-4">
+            @Body
+        </article>
+        
+        <footer class="site-footer">
+            <p> Made with 💖 by Donna </p>
+        </footer>
+    </main>
+</div>
+
+<div id="blazor-error-ui" data-nosnippet>
+    Oopsie! Something went wrong 💔
+    <a href="." class="reload">Try again</a>
+    <span class="dismiss">✖️</span>
+</div>
